@@ -1,0 +1,6 @@
+aiohttp==3.9.1
+fastapi-utils==0.2.1
+fastapi==0.105.0
+redis==5.0.1
+uvicorn==0.24.0.post1
+
